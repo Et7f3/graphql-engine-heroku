@@ -16,9 +16,11 @@
   "formation": {
     "web": {
       "quantity": 1
+    },
+    "web2": {
+      "quantity": 1
     }
   },
-  "stack": "container",
   "addons": [
     {
       "plan": "heroku-postgresql:hobby-dev"
